@@ -1,218 +1,397 @@
-<h1 align="center">Hi 👋, I'm MD. Rakib Hossain</h1>
+# 👋 Hi, I'm MD. RAKIB HOSSAIN
 
-<h3 align="center">
-AI • Robotics • Computer Vision • Embedded Systems • Intelligent Transportation Systems
-</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/rakib4123">
-    <img src="https://komarev.com/ghpvc/?username=rakib4123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
+### AI Researcher • Robotics Enthusiast • Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Researcher;Robotics+Competitor;Computer+Vision+Enthusiast;Full+Stack+Developer;Embedded+Systems+Learner;Building+Real+World+AI+Systems" />
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-🎓 I am currently pursuing a **BSc in Computer Science & Engineering** at  
-**American International University-Bangladesh (AIUB)**.
+🎓 BSc in Computer Science & Engineering at **American International University-Bangladesh (AIUB)**
 
-I am passionate about building intelligent systems that combine:
+💡 Passionate about:
+- Artificial Intelligence
+- Robotics
+- Computer Vision
+- Embedded Systems
+- Machine Learning
+- Full Stack Development
+- Autonomous Systems
+- Transportation Safety Systems
 
-- 🤖 Robotics
-- 🧠 Artificial Intelligence
-- 👁️ Computer Vision
-- 📡 Embedded Systems
-- 🚦 Intelligent Transportation Systems
-- 📶 5G Localization Technologies
-
-My work focuses on solving real-world engineering problems through AI-powered systems, autonomous technologies, and data-driven research.
-
----
-
-# 🏆 Achievements
-
-## 🥇 Robotics Competition Achievements
-
-- 🏆 Winner — Robot Soccer Competition (CST FEST 2024)
-- 🥈 2nd Runner-Up — AIUB Robotic Soccer Bot Competition
-- 🏎️ Runner-Up — Robo Race Competition (NRC)
-- 🥉 2nd Runner-Up — National Robotics Championship (NRC)
+🔬 Currently working on:
+- AI-powered motorcycle crash prediction systems
+- Low-light traffic object detection research
+- 5G mmWave localization systems
+- Full-stack scalable applications
+- Robotics and autonomous systems
 
 ---
 
-# 🚧 Research & Ongoing Work
+# 🧠 Technical Skills
+
+## 💻 Programming Languages
+
+```txt
+C • C++ • Java • Python • JavaScript • TypeScript • SQL
+```
+
+---
+
+## 🤖 AI & Machine Learning
+
+```txt
+YOLOv8
+PyTorch
+TensorFlow
+OpenCV
+Deep Learning
+Computer Vision
+Object Detection
+Image Processing
+Dataset Engineering
+Annotation Pipelines
+Model Evaluation
+```
+
+---
+
+## 🌐 Web Development
+
+```txt
+Next.js
+React.js
+NestJS
+Node.js
+Express.js
+Tailwind CSS
+REST APIs
+JWT Authentication
+Prisma ORM
+PostgreSQL
+Redis
+Cloudinary
+Zustand
+TanStack Query
+```
+
+---
+
+## ⚙️ Robotics & Embedded Systems
+
+```txt
+Arduino
+ESP32
+Autonomous Robotics
+Robot Soccer
+Robo Race Systems
+Embedded AI
+Motor Driver Integration
+IoT Systems
+Sensor Fusion
+```
+
+---
+
+# 🏆 Achievements & Competitions
+
+## 🥈 AIUB Intra-University Soccer-Bot Competition
+### 2nd Runner-Up
+
+- Organized by AIUB Robotic Crew
+- Focused on autonomous soccer robots
+- Worked on robot movement and embedded control systems
+
+---
+
+## 🏆 AIUB CS FEST 2024
+### Winner — Robot Soccer
+
+- Built autonomous robot soccer systems
+- Optimized robot movement and strategy
+- Real-time robotics competition engineering
+
+---
+
+## 🥈 National Robotics Championship 2025
+### Robo Race — 2nd Runner-Up
+
+- National-level robotics competition
+- Autonomous navigation and optimization
+- Robotics engineering and embedded systems
+
+---
+
+## 🥈 Technoxian Bangladesh National Round 2024
+### Robo Race Runner-Up
+
+🏅 Prize Money: **20,000 BDT**
+
+- Autonomous robotics competition
+- Speed and control optimization
+- Competitive robotics engineering
+
+---
+
+## 🏆 Techfest IIT Bombay Bangladesh Zonal 2024
+### Winner — Cozmo Clench Segment
+
+- Organized at DUET Robotics Club
+- Team-based robotics engineering challenge
+- Autonomous systems and competitive problem solving
+
+---
+
+## 🤖 Additional Participation
+
+Participated in multiple national and university-level robotics competitions:
+
+- Robot Soccer
+- Robo Race
+- Nano BattleBot
+- Autonomous Robotics Challenges
+- Embedded Systems Challenges
+- AI & Robotics Competitions
+
+---
+
+# 📄 Research & Publications
+
+## 🚦 MotoSense — AI-Based Motorcycle Pre-Crash Prediction System
+
+MotoSense is an AI-powered motorcycle rider safety system designed to forecast crash risks before accidents occur.
+
+### Features
+
+- Real-time crash prediction
+- AI-powered object detection
+- Rider behavior analysis
+- Intelligent road awareness
+- On-device prediction systems
+
+### Technologies
+
+```txt
+YOLOv8 • OpenCV • Python • Deep Learning • Computer Vision
+```
+
+---
+
+## 🌃 DhakaNight Benchmark Dataset
+
+Low-light object detection benchmark for dense urban night traffic in Bangladesh.
+
+### Highlights
+
+- 2,380 low-light traffic images
+- 45,000+ object annotations
+- Bangladesh-specific traffic dataset
+- YOLOv8-based benchmarking
+- Low-light enhancement evaluation
+
+### Technologies
+
+```txt
+YOLOv8 • OpenCV • RetinexFormer • CLAHE • Zero-DCE
+```
+
+---
 
 ## 📡 5G mmWave Localization Research
 
-Currently working on:
-- CTRV-Based Three-Gate Outlier Correction
+### “CTRV-Based Three-Gate Outlier Correction for 5G mmWave User Localization in Rural Environments”
+
+### Research Areas
+
 - 5G NR Localization
-- TDoA/AoA Positioning
-- Motion Model Prediction
-- Statistical Outlier Detection
-
-### Technologies Used
-`Python` `NumPy` `SciPy` `Signal Processing`
+- TDoA/AoA estimation
+- CTRV motion models
+- Statistical outlier correction
+- Rural communication systems
 
 ---
 
-## 🌃 DhakaNight — Low-Light Traffic Vision Benchmark
+# 💻 Featured Projects
 
-Working on a low-light traffic benchmark dataset and computer vision framework.
+# 🛒 Drikon — Full Stack E-Commerce Platform
 
-### Focus Areas
-- Low-Light Object Detection
-- Traffic AI
-- Night-Time Computer Vision
-- Dataset Engineering
-- YOLOv8 Benchmarking
+Production-grade distributed e-commerce platform built with modern scalable architecture.
 
-### Technologies Used
-`YOLOv8` `PyTorch` `OpenCV` `Roboflow`
+## 🚀 Features
+
+- Secure authentication system
+- Role-based access control
+- Product management dashboard
+- Cloud image uploads
+- Distributed deployment architecture
+- JWT secure sessions
+- Admin dashboard
+- Production-grade security
+
+## 🧱 Tech Stack
+
+```txt
+Next.js 15
+React 19
+NestJS
+PostgreSQL
+Redis
+Prisma
+Tailwind CSS
+Cloudinary
+Docker
+```
+
+## ☁️ Infrastructure
+
+```txt
+Vercel
+Render
+Supabase
+Upstash
+Cloudflare Workers
+GitHub
+```
+
+## 🔗 GitHub Repository
+
+```bash
+https://github.com/rakib4123/drikon
+```
 
 ---
 
-## 🚦 MotoSense — AI-Based Pre-Crash Forecasting
+# 🚦 MotoSense
 
-Building an intelligent crash-risk prediction system for motorcycles.
-
-### Current Work
-- Accident Dataset Pipeline
-- Crash Prediction
-- Traffic Risk Analysis
-- AI Forecasting
-
-### Datasets
-- US-Accidents
-- UK STATS19
-- Dhaka Traffic Data
-
----
-
-# 🛒 Featured Project — Drikon
-
-A modern production-grade full-stack e-commerce platform.
+AI-powered motorcycle crash prediction and rider safety system.
 
 ## Features
-- JWT Authentication
-- Role-Based Access
-- Admin Dashboard
-- Cloud Image Upload
-- Secure API
-- Production Architecture
 
-## Tech Stack
-`Next.js` `NestJS` `PostgreSQL` `Redis` `Prisma`
+- Real-time object detection
+- Crash risk forecasting
+- Intelligent rider assistance
+- Traffic awareness systems
+- AI-based prediction pipelines
 
----
+## Technologies
 
-# 🤖 Robotics & Embedded Systems
-
-I actively work on:
-- ESP32 Development
-- Arduino Systems
-- Sensor Integration
-- Autonomous Robotics
-- Embedded AI
-- IoT Systems
+```txt
+YOLOv8 • OpenCV • Python • Deep Learning • Embedded AI
+```
 
 ---
 
-# 🛠️ Technical Skills
+# 🌃 DhakaNight
 
-## Programming Languages
+Benchmark dataset and AI research project for low-light traffic object detection.
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+## Project Goals
 
----
-
-## AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+- Improve low-light object detection
+- Benchmark enhancement methods
+- Build Bangladesh-focused AI datasets
+- Advance night-time computer vision research
 
 ---
 
-## Web & Backend Development
+# 📚 Education
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+## 🎓 American International University-Bangladesh (AIUB)
+### Bachelor of Science in Computer Science & Engineering
 
----
+### Focus Areas
 
-## Embedded Systems & Robotics
-
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge"/>
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib4123&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib4123&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib4123&layout=compact&theme=tokyonight"/>
-</p>
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Robotics
+- Networking
+- Embedded Systems
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email: your-email@example.com
+## 💻 GitHub
 
-💼 LinkedIn: add-your-linkedin
-
-🌍 GitHub:
+```bash
 https://github.com/rakib4123
+```
+
+## 🔗 LinkedIn
+
+```bash
+Add Your LinkedIn URL Here
+```
+
+## 📧 Email
+
+```bash
+Add Your Professional Email Here
+```
 
 ---
 
-# 🎯 Career Interests
+# 📊 GitHub Stats
 
-Interested in:
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib4123&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib4123&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakib4123&theme=tokyonight)
+
+</div>
+
+---
+
+# ⚡ Personal Motto
+
+> “Building intelligent systems that combine AI, robotics, and software engineering to solve real-world problems.”
+
+---
+
+# 🎯 Career Goals
+
+I aim to become a researcher and engineer working in:
+
 - Artificial Intelligence
-- Robotics Engineering
+- Robotics
 - Computer Vision
+- Autonomous Systems
 - Embedded AI
-- Intelligent Transportation Systems
-- Research & Development
+- Transportation Safety Systems
+- Scalable Software Engineering
+
+I want to contribute to impactful real-world technologies that improve automation, transportation safety, and intelligent systems.
 
 ---
 
-# ⚡ Motto
+# 🏅 Highlights
 
-> “Building intelligent systems that solve real-world problems through AI, Robotics, and Innovation.”
+✅ Winner — AIUB CS FEST 2024 Robot Soccer  
+✅ Winner — Techfest IIT Bombay Bangladesh Zonal 2024  
+✅ Runner-Up — Technoxian Bangladesh National Round 2024  
+✅ 2nd Runner-Up — National Robotics Championship 2025  
+✅ 2nd Runner-Up — AIUB Soccer-Bot Competition  
+✅ Research Contributor in 5G mmWave Localization  
+✅ Creator of AI and Robotics Projects  
+✅ Full Stack Application Developer  
+✅ Working on AI-based transportation safety systems  
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+<div align="center">
+
+## 🚀 Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
+
