@@ -99,26 +99,62 @@ Sensor Fusion
 ---
 
 # 🏆 Achievements & Competitions
-## 🥈 Technoxian Bangladesh National Round 2024
-### Robo Race Runner-Up
-
-
-## 🏆 Techfest IIT Bombay Bangladesh Zonal 2024
-### Winner — Cozmo Clench Segment
-
-## 🏆 AIUB CS FEST 2024
-### Winner — Robot Soccer
-
-## 🥈 National Robotics Championship 2025
-### 🥈 Nano BattleBot Competition - Runner-Up
-
-## 🥈 National Robotics Championship 2025
-### Robo Race — 2nd Runner-Up
 
 ## 🥈 AIUB Intra-University Soccer-Bot Competition
 ### 2nd Runner-Up
 
+- Organized by AIUB Robotic Crew
+- Focused on autonomous soccer robots
+- Worked on robot movement and embedded control systems
 
+---
+
+## 🏆 AIUB CS FEST 2024
+### Winner — Robot Soccer
+
+- Built autonomous robot soccer systems
+- Optimized robot movement and strategy
+- Real-time robotics competition engineering
+
+---
+
+## 🥈 National Robotics Championship 2025
+### Robo Race — 2nd Runner-Up
+
+- National-level robotics competition
+- Autonomous navigation and optimization
+- Robotics engineering and embedded systems
+
+---
+
+## 🥈 Technoxian Bangladesh National Round 2024
+### Robo Race Runner-Up
+
+🏅 Prize Money: **20,000 BDT**
+
+- Autonomous robotics competition
+- Speed and control optimization
+- Competitive robotics engineering
+
+---
+
+## 🏆 Techfest IIT Bombay Bangladesh Zonal 2024
+### Winner — Cozmo Clench Segment
+
+- Organized at DUET Robotics Club
+- Team-based robotics engineering challenge
+- Autonomous systems and competitive problem solving
+
+---
+
+## 🥈 Nano BattleBot Competition
+### Runner-Up
+
+- Competed in Nano BattleBot robotics category
+- Worked on robot combat mechanisms and movement systems
+- Focused on embedded control and strategic robotics engineering
+
+---
 
 ## 🤖 Additional Participation
 
