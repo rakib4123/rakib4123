@@ -1,10 +1,10 @@
 # Hi, I'm Md. Rakib Hossain 👋
 
-### Machine Learning & Data Science · CSE Undergraduate @ AIUB
+### Machine Learning & Computer Vision · IT Intern @ Live Technologies · CSE @ AIUB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rakib-hossain-519818263)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:000.mdrakibhossain@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white)](https://rakib4123.github.io)
 [![Profile views](https://komarev.com/ghpvc/?username=rakib4123&style=for-the-badge&color=1F4E79)](https://github.com/rakib4123)
 
 ---
@@ -12,9 +12,11 @@
 ### About Me
 
 - 🎓 Final-year **Computer Science & Engineering** student at **AIUB**, focused on **machine learning** and **data science**.
+- 💼 **IT Intern** at **Live Technologies Ltd** (Department of Information Technologies) — data, ML, and backend work.
+- 📄 First author of **3 peer-reviewed papers** presented at **IEEE COMPAS 2026** and **ICCA 2026** (ACM).
 - 🔬 I build **end-to-end ML systems** — data cleaning and feature engineering, calibrated risk models, computer-vision object detection, and explainable pipelines.
 - 🤖 Founder & Team Lead of **"Khepa Chakka"** robotics team — national podiums and an international selection for **Techfest, IIT Bombay**.
-- 🌱 Currently going deeper into **NLP, data mining, and MLOps**.
+- 🌱 Currently going deeper into **NLP, data mining, and MLOps**, and working toward **AI & automation engineering**.
 - 💬 Ask me about **Python, PyTorch, computer vision, and gradient boosting**.
 - ⚡ I care about models that work in the real world — and being honest about where they don't.
 
@@ -65,14 +67,25 @@
 
 ---
 
+### Publications
+
+| Paper | Venue |
+| --- | --- |
+| **RideGuard: A Behavioural-Spatial Risk Framework with Conformal Prediction for Motorcycle Safety** | IEEE COMPAS 2026, University of Dhaka |
+| **DhakaNight: A Benchmark for Low-Light Object Detection in Dense Urban Night Traffic** | ICCA 2026 (in cooperation with ACM) |
+| **PulseStone: A Tangible Single-Action Anxiety Companion** | ICCA 2026 (in cooperation with ACM) |
+
+---
+
 ### Featured Projects
 
 | Project | What it is | Tech |
 | --- | --- | --- |
 | **[RideGuard](https://github.com/rakib4123/Ride_Guard_WebApp)** · [Live ↗](https://ride-guard-web-app-web.vercel.app) | A riding-safety app that scores motorcyclist risk in real time from behaviour and location — live risk map, route-level risk, and voice/vibration alerts. Built on cleaned, geocoded crash and behaviour data with gradient-boosted models and SHAP explanations. | Python · CatBoost · XGBoost · TensorFlow · SHAP · TypeScript |
-| **[DhakaNight](https://github.com/rakib4123/Dhaka_Night)** | A YOLO-based object-detection pipeline for night-time street scenes, trained on a custom ~2,300-image dataset I collected and annotated, benchmarking low-light enhancement methods (CLAHE, Zero-DCE, RetinexFormer). | PyTorch · YOLO · OpenCV · Roboflow |
+| **[DhakaNight](https://github.com/rakib4123/Dhaka_Night)** · [Dataset ↗](https://github.com/rakib4123/Dhaka-Night_DataSet) | Night-time traffic detection for Dhaka on a 2,380-image, 10-class dataset I collected and annotated (45k+ boxes), benchmarking YOLOv8 against four low-light enhancement methods (CLAHE, Gamma, Zero-DCE, RetinexFormer). | PyTorch · YOLOv8 · OpenCV · Roboflow |
 | **[PulseStone](https://github.com/rakib4123/PulseStone)** | A squeeze-activated IoT device guiding a 4-7-8 breathing exercise — built from the ground up on an ESP32-C3 and validated in a user study (15 participants, 150 trials) showing a 14.5× faster start than a phone app. | ESP32-C3 · Arduino C++ · Python |
 | **[Drikon](https://github.com/rakib4123/drikon)** | A production-grade e-commerce monorepo with secure auth (rotating JWTs, 2FA, RBAC, argon2id) running on free-tier cloud at $0/month. | Next.js · NestJS · PostgreSQL · Prisma |
+| **[Compensation Insights](https://github.com/rakib4123/Employee-Compensation-Satisfaction)** | A Django HR dashboard that predicts each employee's market salary and compensation satisfaction, with per-employee explanations, plus an IEEE-format research proposal on the survey data. | Python · Django · scikit-learn · SHAP |
 | **[AIUB STEAM](https://github.com/rakib4123/AiubSteam)** | A Windows desktop university portal with role-based dashboards for students, faculty, and admins, including email-OTP sign-up and admin account approval. | C# · .NET · WinForms · SQL Server |
 
 ---
@@ -84,6 +97,7 @@ Founder & Team Lead of **"Khepa Chakka"** — I design, build, and program compe
 - 🏆 **Champion** — Robot Soccer, AIUB CS Fest 2024
 - 🥇 **Winner** — Cozmo Clench, Techfest IIT Bombay (Bangladesh Zonal) 2024
 - 🥈 **1st Runner-up** (Nano Battle Bot) & **2nd Runner-up** (Robo Race) — National Robotics Championship 2025
+- 🥈 **1st Runner-up** — Robot Soccer, AIUB Robotic Crew (ARC) 2025
 - 🥈 **1st Runner-up** — Robo Race, Technoxian Bangladesh 2024
 
 ---
@@ -95,4 +109,4 @@ Founder & Team Lead of **"Khepa Chakka"** — I design, build, and program compe
 
 ---
 
-*Open to internships in data and machine learning. Let's build something that reaches a lot of people.*
+*Open to AI/ML and automation internships and collaborations. Let's build something that reaches a lot of people.*
