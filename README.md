@@ -6,7 +6,7 @@ IT Intern @ Live Technologies · Final-year CSE @ AIUB · Working toward AI & au
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rakib-hossain-519818263)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white)](https://rakib4123.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:000.mdrakibhossain@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r1.rakibhossain1@gmail.com)
 
 ---
 
