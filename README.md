@@ -23,7 +23,7 @@ IT Intern @ Live Technologies · Final-year CSE @ AIUB · Working toward AI & au
 **Full-stack**
 - 🛒 **[Drikon](https://github.com/rakib4123/drikon)**: e-commerce platform with an Apriori recommendation engine (Next.js · NestJS · PostgreSQL).
 - 💼 **[Compensation Insights](https://github.com/rakib4123/Employee-Compensation-Satisfaction)**: Django app that predicts market salary with per-employee explanations (scikit-learn · SHAP).
-- 🤖 **Durbar Robotics** (freelance): building [durbarrobotics.com](https://durbarrobotics.com), a robotics-parts store, course platform and 3D-printing quote tool (Next.js).
+- 🤖 **Durbar Robotics** (part-time): building [durbarrobotics.com](https://durbarrobotics.com), a robotics-parts store, course platform and 3D-printing quote tool (Next.js).
 
 **Hardware**
 - 🫁 **[PulseStone](https://github.com/rakib4123/PulseStone)** · ICCA 2026: ESP32-C3 device that starts a breathing exercise with one squeeze, tested in a 15-person study.
